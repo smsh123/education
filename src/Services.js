@@ -19,10 +19,14 @@ function Services() {
                 style={{
                 backgroundImage: "http://localhost:3000/assets/shape.png",
                 padding: "0 20px 0 20px",
-                maxHeight: "100px"
+                // maxHeight: "100px"
             }}>
-                <Col xs={4}>
-                <Card style={{
+                
+
+            </Row>
+
+            <Row>
+            <Card style={{
                         width: '18rem'
                     }}>
                         <Card.Img variant="top" src="holder.js/100px180"/>
@@ -35,8 +39,6 @@ function Services() {
                             <Button variant="primary">Go somewhere</Button>
                         </Card.Body>
                     </Card>
-                </Col>
-
             </Row>
            
         </div>
