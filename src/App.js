@@ -68,14 +68,13 @@ function App() {
                     <Button variant="primary" className="enquery-btn">Enquire Now</Button>{' '}
                 </Col>
                 <Col>
-                    <img alt="" loading="lazy" src={window.location.origin + '/assets/men.png'} // width="100%"
-                        // height="250px" 
+                    <img alt="" loading="lazy" src={window.location.origin + '/assets/men.png'}
                         style={{
                     }} className="d-inline-block align-top"/>
                 </Col>
 
             </Row>
-            <Container>
+            <Container >
             <Row>
                 <Col>
                 <Card className="banner_cards" >
@@ -116,7 +115,7 @@ function App() {
             </Container>
             </section>
             <section className="section1">
-                <Container>
+                <Container >
                     <Row>
                      <h6 class="heading-title">Top Courses</h6>
                      <h4 class="h4-heading-title ">Most Popular Courses</h4>
