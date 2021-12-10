@@ -57,7 +57,7 @@ function App() {
             <section class="banner_section">
             <Row
                 style={{
-                backgroundImage: "http://localhost:3000/assets/shape.png",
+                backgroundImage: window.location.origin + "/assets/shape.png",
             }}>
                 <Col>
                     <h3
@@ -127,10 +127,10 @@ function App() {
 	<div class="holder">
 		<div class="pic">
 			
-			<a href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/"><img alt="lms" src="https://edubee.radiantthemes.com/wp-content/uploads/2021/02/hm2-test1.jpg" data-no-retina=""/></a>
+			<a href="#"><img alt="lms" src={window.location.origin +'/assets/hm2-test1.jpg'} data-no-retina=""/></a>
 		</div>
 		<div class="data">
-			<h6><a class="course-title" href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/">SQL-Data Analysis: Crash Course For Masters</a></h6>
+			<h6><a class="course-title" href="#">SQL-Data Analysis: Crash Course For Masters</a></h6>
 
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
 
@@ -146,10 +146,10 @@ function App() {
 	<div class="holder">
 		<div class="pic">
 			
-			<a href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/"><img alt="lms" src="https://edubee.radiantthemes.com/wp-content/uploads/2021/02/hm2-test1.jpg" data-no-retina=""/></a>
+			<a href="#"><img alt="lms" src={window.location.origin +'/assets/hm2-test1.jpg'} data-no-retina=""/></a>
 		</div>
 		<div class="data">
-			<h6><a class="course-title" href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/">SQL-Data Analysis: Crash Course For Masters</a></h6>
+			<h6><a class="course-title" href="#">SQL-Data Analysis: Crash Course For Masters</a></h6>
 			
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
 		
@@ -165,10 +165,10 @@ function App() {
 	<div class="holder">
 		<div class="pic">
 			
-			<a href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/"><img alt="lms" src="https://edubee.radiantthemes.com/wp-content/uploads/2021/02/hm2-test1.jpg" data-no-retina=""/></a>
+			<a href="#"><img alt="lms" src={window.location.origin +'/assets/hm2-test1.jpg'} data-no-retina=""/></a>
 		</div>
 		<div class="data">
-			<h6><a class="course-title" href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/">SQL-Data Analysis: Crash Course For Masters</a></h6>
+			<h6><a class="course-title" href="#">SQL-Data Analysis: Crash Course For Masters</a></h6>
 			
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
 		
@@ -190,10 +190,10 @@ function App() {
 	<div class="holder">
 		<div class="pic">
 			
-			<a href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/"><img alt="lms" src="https://edubee.radiantthemes.com/wp-content/uploads/2021/02/hm2-test1.jpg" data-no-retina=""/></a>
+			<a href="#"><img alt="lms" src={window.location.origin +'/assets/hm2-test1.jpg'} data-no-retina=""/></a>
 		</div>
 		<div class="data">
-			<h6><a class="course-title" href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/">SQL-Data Analysis: Crash Course For Masters</a></h6>
+			<h6><a class="course-title" href="#">SQL-Data Analysis: Crash Course For Masters</a></h6>
 
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
 
@@ -209,10 +209,10 @@ function App() {
 	<div class="holder">
 		<div class="pic">
 			
-			<a href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/"><img alt="lms" src="https://edubee.radiantthemes.com/wp-content/uploads/2021/02/hm2-test1.jpg" data-no-retina=""/></a>
+			<a href="#"><img alt="lms" src={window.location.origin +'/assets/hm2-test1.jpg'} data-no-retina=""/></a>
 		</div>
 		<div class="data">
-			<h6><a class="course-title" href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/">SQL-Data Analysis: Crash Course For Masters</a></h6>
+			<h6><a class="course-title" href="#">SQL-Data Analysis: Crash Course For Masters</a></h6>
 			
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
 		
@@ -228,10 +228,10 @@ function App() {
 	<div class="holder">
 		<div class="pic">
 			
-			<a href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/"><img alt="lms" src="https://edubee.radiantthemes.com/wp-content/uploads/2021/02/hm2-test1.jpg" data-no-retina=""/></a>
+			<a href="#"><img alt="lms" src={window.location.origin +'/assets/hm2-test1.jpg'} data-no-retina=""/></a>
 		</div>
 		<div class="data">
-			<h6><a class="course-title" href="https://edubee.radiantthemes.com/courses/sql-data-analysis-crash-course-for-masters/">SQL-Data Analysis: Crash Course For Masters</a></h6>
+			<h6><a class="course-title" href="#">SQL-Data Analysis: Crash Course For Masters</a></h6>
 			
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
 		
